@@ -1,5 +1,10 @@
 body {
   color: blue;
   background: #eee;
+  padding: 30px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
 }
 /*# sourceMappingURL=style.css.map */
