@@ -1,5 +1,6 @@
 body {
   color: blue;
+  border: 20px solid blue;
   -webkit-font-smoothing: none;
   background: #eee;
   padding: 30px;
