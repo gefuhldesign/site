@@ -1,15 +1,14 @@
 body {
   color: blue;
-  border: 20px solid blue;
-  -webkit-font-smoothing: none;
   background: #eee;
   padding: 30px;
 }
 
 h1 {
-  /*font-family: 'Sacramento', cursive;*/
+  font-family: 'Sacramento', cursive;
 }
-a{
+
+a {
   color: blue;
 }
 /*# sourceMappingURL=style.css.map */
