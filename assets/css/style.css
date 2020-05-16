@@ -9,7 +9,7 @@ a {
   color: blue;
 }
 
-header {
+header h1 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
