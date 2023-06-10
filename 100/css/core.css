@@ -173,10 +173,10 @@ footer div#sns{
 	width: 194px;
 	padding: 3px;
 	position: fixed;
-	right: 75px;
-	bottom: 2%;
+	right: 85px;
+	bottom: 1.5%;
 	z-index: 4;
-	background: url(../img/bgSns.png) 0 0 no-repeat;
+	/* background: url(../img/bgSns.png) 0 0 no-repeat; */
 }
 footer div#twitter{
 	width: 95px;
