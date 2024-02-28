@@ -1,8 +1,6 @@
 body{
   color: blue;
   background: #eee;
-  padding: 30px;
-  border: 10px solid blue;
 }
 a{
   color: blue;
@@ -21,6 +19,8 @@ header{
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  padding: 30px;
+  border: 10px solid blue;
 }
 main{
   margin-top: auto;
