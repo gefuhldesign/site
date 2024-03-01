@@ -1,6 +1,9 @@
 body {
   color: blue;
   background: #eee;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 a {
@@ -11,7 +14,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
   width: 250px;
   height: 50px;
 }
@@ -25,9 +28,12 @@ header {
 }
 
 main {
+  font-size: 20px;
+  line-height: 2em;
   margin-top: auto;
 }
 
 footer {
+  font-size: 20px;
   margin-top: auto;
 }/*# sourceMappingURL=style.css.map */
